@@ -24,7 +24,7 @@ title: About Me
     - Contributed to developing an application-specific metric for Internet quality that goes beyond raw speed metrics, translating Quality of Service (QoS) metrics into Quality of Experience (QoE) scores. Each QoS metric is assigned a weighted score based on its statistical importance for various applications, creating a nuanced framework that
 better captures user experience across network conditions 
 
-- *2023 - 2024*: **Software Development Engineer, Amazon Inc, Bellevue, WA**
+- *July 2020 - June 2022*: **Software Development Engineer, Amazon Inc, Bellevue, WA**
     - Part of the Amazon Enterprise Access(AEA) team that develops a mobile application for Amazon employees to offer secure access to Amazon's internal services without the use of VPN.
     -  Contributed significantly to mitigating AEA application crashes on the Android platform.
     - Designed and implemented the key feature to enforce AEA for Amazon internal email access on mobile devices.
