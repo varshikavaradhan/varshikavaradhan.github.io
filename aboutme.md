@@ -12,7 +12,7 @@ title: About Me
 
 ### Work experience
 
-- *Sep 2022 -*: **Ph.D. Computer Science, University of California Santa Barbara, Santa Barbara, CA**
+- *Sep 2022 -*: **Ph.D. Computer Science, University of California Santa Barbara, CA**
     -  Developed a novel statistical method to understand 5G network performance and variability as users experience, as well as the features of the user equipment that impact performance. [*To appear in PAM 2025*]
     -  Lead a project on the in-depth study of cellular networks to understand spatial and temporal patterns and trends in deployments and their relationship to performance as experienced by users. [*Published in TPRC 2024*]
     -  Conducted in-depth assessment of the impact of the high cost Connect America Fund's (CAF) on fixed broadband availability and pricing in the USA, focusing on compliance of internet service providers in terms of speeds and pricing as well as their behavior in the presence of market competition. [*Published in SIGCOMM 2024*]
