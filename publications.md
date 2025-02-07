@@ -3,9 +3,7 @@ layout: page
 title: Publications
 ---
 
-Some of my selected publications are listed below:
-
-- **Varshika Srinivasavaradhan**, Jiayi Liu, Elizabeth M. Belding, "5G Performance: A Multidimensional Variability Analysis", To appear in International Conference on Passive and Active Network Measurement (PAM '25) [[pdf]](assets/data/PAM_Paper86_Camera_Ready.pdf){:target="_blank"}.
+- **Varshika Srinivasavaradhan**, Jiayi Liu, Elizabeth M. Belding, "5G Performance: A Multidimensional Variability Analysis", To appear in International Conference on Passive and Active Network Measurement (PAM '25) [[pdf]]({{site.baseurl}}/assets/data/PAM_Paper86_Camera_Ready.pdf){:target="_blank"}.
 
 - **Varshika Srinivasavaradhan**, O. Park and E. Belding., "Mapping Cellular Network Evolution and Infrastructure Criticality: A Nationwide Analysis", The Research Conference on Communications, Information and Internet Policy (TPRC’2024)  [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4919404){:target="_blank”}.
 
