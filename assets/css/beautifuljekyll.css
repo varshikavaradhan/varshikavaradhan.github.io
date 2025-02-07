@@ -58,10 +58,10 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.775rem;
+  font-size: 2.25rem;
 }
 h2 {
-  font-size: 1.675rem;
+  font-size: 1.875rem;
 }
 h3 {
   font-size: 1.5rem;
@@ -592,7 +592,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 1.775rem;
+    font-size: 2.25rem;
   }
 }
 
