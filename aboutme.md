@@ -19,13 +19,13 @@ title: About Me
 
       
 - *Oct 2024 -*: **PhD Research Intern, Google LLC, Cambridge, MA**
-    - Student Researcher in the GGN&I org 
-    - Part of the AutoRCA Team and the Latency SLO Program 
+    - Student Researcher in the AutoRCA Team and the Latency SLO Program.
+    -  Investigating latency measurements in internal Google networks to define latency Service Level Objectives (SLOs) that accurately capture current network behavior and customer experience.
 
 
 - *May - Sep 2024*: **Internet Quality Barometer Fellow, Measurement Lab, Remote**
-    - Contributed to developing an application-specific metric for Internet quality that goes beyond raw speed metrics, translating Quality of Service (QoS) metrics into Quality of Experience (QoE) scores. Each QoS metric is assigned a weighted score based on its statistical importance for various applications, creating a nuanced framework that
-better captures user experience across network conditions 
+    - Contributed to developing an application-specific metric for Internet quality that goes beyond raw speed metrics.
+    - Work involved developing a formula to translate Quality of Service (QoS) metrics into Quality of Experience (QoE) scores. Each QoS metric is assigned a weighted score based on its statistical importance for various applications, creating a nuanced framework that better captures user experience across network conditions.
 
 
 - *2020 - 2022*: **Software Development Engineer, Amazon Inc, WA**
