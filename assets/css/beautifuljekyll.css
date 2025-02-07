@@ -32,7 +32,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: 1.10rem;
+  font-size: 1.225rem;
   color: var(--text-col);
   position: relative;
   background-color: var(--page-col);
@@ -61,10 +61,10 @@ h1 {
   font-size: 1.875rem;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 h4 {
   font-size: 1.125rem;
@@ -592,7 +592,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 1.875rem;
+    font-size: 1.775rem;
   }
 }
 
