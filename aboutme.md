@@ -5,9 +5,9 @@ title: About Me
 
 
 ### Education
-- Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA (Sep 2022 - Present)
-- M.S. Department of Computer Science, Purdue University - Main Campus, West Lafayette IN
-- B.E. Department of Electronics and Communication, Anna University, Tamil Nadu, India
+- Ph.D. Department of Computer Science, University of California Santa Barbara, Santa Barbara CA (2022 - Present)
+- M.S. Department of Computer Science, Purdue University - Main Campus, West Lafayette IN, 2020
+- B.E. Department of Electronics and Communication, Anna University, Tamil Nadu, India, 2018
   
 
 ### Work experience
@@ -18,7 +18,7 @@ title: About Me
     -  Conducted in-depth assessment of the impact of the high cost Connect America Fund's (CAF) on fixed broadband availability and pricing in the USA, focusing on compliance of internet service providers in terms of speeds and pricing as well as their behavior in the presence of market competition. [*Published in SIGCOMM 2024*]
 
       
-- *Oct 2024 -*: **PhD Research Intern, Google LLC, Cambridge, MA**
+- *Oct 2024 -*: **PhD Student Researcher, Google LLC, Cambridge, MA**
     - Student Researcher in the AutoRCA Team and the Latency SLO Program.
     -  Investigating latency measurements in internal Google networks to define latency Service Level Objectives (SLOs) that accurately capture current network behavior and customer experience.
 
