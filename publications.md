@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- **Varshika Srinivasavaradhan**, Jiayi Liu, Elizabeth M. Belding, "Broadband Access: Assessing the Interplay Between Wireline, Fixed Wireless, and Mobile Networks in the U.S.",  To appear at The Research Conference on Communications, Information and Internet Policy (TPRC’2025).
+- **Varshika Srinivasavaradhan**, Jiayi Liu, Elizabeth M. Belding, "Broadband Access: Assessing the Interplay Between Wireline, Fixed Wireless, and Mobile Networks in the U.S.",  The Research Conference on Communications, Information and Internet Policy (TPRC’2025) [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5382475){:target="_blank”}.
 
 - **Varshika Srinivasavaradhan**, "Measuring the Mobile Gap: From Network Performance to Infrastructure Criticality", International Conference on Mobile Systems, Applications, and Services (MobiSys'25) Rising Stars Forum [[pdf]](/assets/data/MobiSys_Camera_Ready.pdf){:target="_blank"}.
 
